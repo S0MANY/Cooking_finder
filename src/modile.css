@@ -1,0 +1,40 @@
+@media (max-width:930px) {
+    .vertical{
+        display: block;
+    }
+    .horizontal{
+        display: none;
+    }
+
+    header {
+        height: 30vh;
+    }
+
+    nav{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        align-items: center;
+    }
+    nav > div{
+        text-align: center;
+    }
+
+    h2 {
+        text-align: center;
+    }
+
+    .dish {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .dish__img{
+        height: 700px;
+        min-height: 250px;
+
+        min-width: 100px;
+    }
+
+
+}

@@ -422,6 +422,10 @@ input::placeholder{
   scale: 1.5;
 }
 
+.vertical {
+  display: none;
+}
+
 
 
 

@@ -9,7 +9,7 @@ import { Notfound } from "./Pages/404";
 
 function App() {
   return  (
-    <Routes basename="/cool-recepies-react-app">
+    <Routes>
       <Route path="/" element={<LayOut/>}>
         <Route index element={<Swipercategory/>}/>
         <Route path="category/:type" element={<CategorySearch/>}/>
