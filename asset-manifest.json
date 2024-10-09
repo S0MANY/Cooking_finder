@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Cooking_finder/static/css/main.54549c78.css",
-    "main.js": "/Cooking_finder/static/js/main.c75b5cd4.js",
+    "main.js": "/Cooking_finder/static/js/main.9c11a5d3.js",
     "static/media/beef.jpg": "/Cooking_finder/static/media/beef.861d76c3246a51166606.jpg",
     "static/media/chiken.jpg": "/Cooking_finder/static/media/chiken.c0ce770fb95e2c0b2b05.jpg",
     "static/media/vagan food.jpg": "/Cooking_finder/static/media/vagan food.889ae85e2715e735720a.jpg",
@@ -10,10 +10,10 @@
     "static/media/desert.jpg": "/Cooking_finder/static/media/desert.3ea360bf2501ac12f651.jpg",
     "index.html": "/Cooking_finder/index.html",
     "main.54549c78.css.map": "/Cooking_finder/static/css/main.54549c78.css.map",
-    "main.c75b5cd4.js.map": "/Cooking_finder/static/js/main.c75b5cd4.js.map"
+    "main.9c11a5d3.js.map": "/Cooking_finder/static/js/main.9c11a5d3.js.map"
   },
   "entrypoints": [
     "static/css/main.54549c78.css",
-    "static/js/main.c75b5cd4.js"
+    "static/js/main.9c11a5d3.js"
   ]
 }
